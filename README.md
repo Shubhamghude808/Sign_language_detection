@@ -41,8 +41,7 @@ Objectives:
 2.	Machine Learning Robustness: Employ machine learning techniques to enhance the robustness of the sign language recognition system, considering variations in signing styles and regional differences.
 3.	Hardware Integration: Integrate the ESP32-CAM module with the Raspberry Pi platform to capture high-resolution images of sign language gestures, ensuring efficient and effective processing.
 4.	Python Programming Efficiency: Utilize the Python programming language to develop efficient and responsive algorithms for real-time sign language recognition on the Raspberry Pi.
-5.	User Adaptability: Design the device to adapt to different user preferences by incorporating customization features, such as adjustable recognition thresholds and the ability to update vocabulary and grammar models.
-6.	LCD Display Interaction: Implement an LCD display to provide immediate visual feedback of interpreted sign language sentences, optimizing its design for clarity and user-friendly interaction.
-7.	Wireless Communication Implementation: Implement wireless communication protocols to enable remote interaction, assessing challenges like latency and security, and exploring ways to enhance the device's accessibility.
+5.	LCD Display Interaction: Implement an LCD display to provide immediate visual feedback of interpreted sign language sentences, optimizing its design for clarity and user-friendly interaction.
+6.	Wireless Communication Implementation: Implement wireless communication protocols to enable remote interaction, assessing challenges like latency and security, and exploring ways to enhance the device's accessibility.
 
 
