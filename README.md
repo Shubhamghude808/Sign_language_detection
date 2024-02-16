@@ -37,11 +37,9 @@ Despite the increasing integration of technology in various aspects of our lives
 Aim: The aim of this research is to develop a Sign Language IoT device using Python, Raspberry Pi, ESP32-CAM, and an LCD display that can accurately detect sign language gestures as alphabets and construct coherent sentences in real-time. The primary focus is to create an affordable, portable, and user-friendly solution to empower individuals with hearing impairments in their communication endeavours.
 
 Objectives:
-1.	Algorithm Optimization: Develop and optimize computer vision algorithms to accurately recognize and interpret a diverse range of sign language gestures as individual alphabets.
-2.	Machine Learning Robustness: Employ machine learning techniques to enhance the robustness of the sign language recognition system, considering variations in signing styles and regional differences.
-3.	Hardware Integration: Integrate the ESP32-CAM module with the Raspberry Pi platform to capture high-resolution images of sign language gestures, ensuring efficient and effective processing.
-4.	Python Programming Efficiency: Utilize the Python programming language to develop efficient and responsive algorithms for real-time sign language recognition on the Raspberry Pi.
-5.	LCD Display Interaction: Implement an LCD display to provide immediate visual feedback of interpreted sign language sentences, optimizing its design for clarity and user-friendly interaction.
-6.	Wireless Communication Implementation: Implement wireless communication protocols to enable remote interaction, assessing challenges like latency and security, and exploring ways to enhance the device's accessibility.
+1.	To provide an IoT device that can detect Sign Languages in Real-Time.
+2.	To enable Sign Gestures into Text.
+3.	To ensure portability and User-friendly interface
+4.	To enhance the accuracy of the model by optimizing machine learning algorithm. 
 
 
