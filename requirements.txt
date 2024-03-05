@@ -30,3 +30,4 @@ cycler~=0.12.1
 packaging~=23.1
 kiwisolver~=1.4.5
 zipp~=3.16.2
+requests~=2.31.0
